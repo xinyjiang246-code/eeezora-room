@@ -31,7 +31,7 @@ npm run build
 python3 build-standalone.py
 ```
 
-脚本会把 JS/CSS/图片/字体全部内联。字体缓存在 `字体缓存/`（已下载好，一般无需重下）。
+脚本会把 JS/CSS/图片/字体全部内联。字体缓存放在 `字体缓存/`（首次运行时会自动下载，**仓库里没有**，因为它只是 woff2 缓存）。
 
 ## 目录结构
 
@@ -46,7 +46,6 @@ src/
   styles.css        全部视觉与动效参数
 public/assets/      压缩后的 WebP 素材
 dist/               构建产物
-字体缓存/            自托管 Web 字体
 ```
 
 ## 技术栈

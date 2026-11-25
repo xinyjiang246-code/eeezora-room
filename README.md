@@ -45,8 +45,9 @@ src/
   hooks/            语言状态、减少动效
   styles.css        全部视觉与动效参数
 public/assets/      压缩后的 WebP 素材
-dist/               构建产物
 ```
+
+`dist/` 是构建产物，不提交（由 `npm run build` 生成）；GitHub Pages 用的是 `gh-pages` 分支。
 
 ## 技术栈
 

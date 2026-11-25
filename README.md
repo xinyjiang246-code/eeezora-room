@@ -1,6 +1,10 @@
 # eeeZora — 一间会生长的房间
 
-> **Status: WIP** — 房间本体与 7 个物件的主链路可用，部分物件内容仍是草稿（`status: draft`）。
+> **Status: Work in Progress · 仍在进行中**
+>
+> An unfinished prototype. The room and its seven objects work end to end, but some content is still draft and things may change without notice.
+>
+> 一个仍在开发中的原型。房间本体与七个物件的主链路可用，但部分内容仍是草稿，随时可能改动。
 
 2.5D 沉浸式个人网站。访客从屋外推门进入一间卧室兼工作台，点击场景里的物件打开对应内容。
 
